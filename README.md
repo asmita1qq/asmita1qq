@@ -17,17 +17,17 @@ A full Docusaurus documentation site built on a hand-authored OpenAPI 3.0 spec: 
 
 **Live site:** [asmita1qq.github.io/datahub-docs-portal](https://asmita1qq.github.io/datahub-docs-portal/)
 
-### 🗂️ [datahub-data-catalog](https://asmita1qq.github.io/datahub-data-catalog/) — Data Catalog & Metrics Knowledge Base
+### 🗂️ [datahub-data-catalog](https://github.com/asmita1qq/datahub-data-catalog) — Data Catalog & Metrics Knowledge Base
 A full data catalog and metrics dictionary with real calculation logic, a controlled tagging taxonomy for information architecture, structured DITA topics (concept/task/reference), and an `llms.txt` layer for AI-based content discoverability. This is the project that goes beyond documenting a system's behavior into documenting the data itself — what it means, where it comes from, and how it's governed.
 
 **Live site:** [asmita1qq.github.io/datahub-data-catalog](https://asmita1qq.github.io/datahub-data-catalog/)
 
-### 🧭 [docs-team-playbook](https://asmita1qq.github.io/docs-team-playbook/) — Documentation Enablement System
+### 🧭 [docs-team-playbook](https://github.com/asmita1qq/docs-team-playbook) — Documentation Enablement System
 A documentation style guide, contributor onboarding guide, and review checklist — the artifacts a lead writer produces to scale documentation quality across a team, not just their own output. Includes a first-person retrospective on rolling out docs-as-code while leading a team of 3 writers.
 
 **Live site:** [asmita1qq.github.io/docs-team-playbook](https://asmita1qq.github.io/docs-team-playbook/)
 
-### 📗 [retailflow-user-guides](https://asmita1qq.github.io/retailflow-user-guides/) — Client & Internal Product Documentation
+### 📗 [retailflow-user-guides](https://github.com/asmita1qq/retailflow-user-guides) — Client & Internal Product Documentation
 A complete client-facing module user guide, onboarding guide, and FAQ, alongside an internal product overview and release-documentation SOP — the same underlying product documented for two different audiences with two different sets of needs. Using the documents for reference when navigating through the [retailflow-mock-ui](https://asmita1qq.github.io/retainflow-mock-ui/) ties the entire project together. 
 
 **Live site:** [asmita1qq.github.io/retailflow-user-guides](https://asmita1qq.github.io/retailflow-user-guides/)
