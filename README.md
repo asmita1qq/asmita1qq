@@ -32,6 +32,11 @@ A complete client-facing module user guide, onboarding guide, and FAQ, alongside
 
 **Live site:** [asmita1qq.github.io/retailflow-user-guides](https://asmita1qq.github.io/retailflow-user-guides/)
 
+### 🚨 [infra-sre-runbooks](https://github.com/asmita1qq/infra-sre-runbooks) — Infrastructure Operations & Incident Runbook Suite
+A version-controlled set of high-priority SRE playbooks mapping step-by-step diagnostic shell scripts and cluster failover sequences for critical infrastructure events (DB_REPLICA_LAG_FATAL, K8S_POD_CRASH_LOOP_BACKOFF). Includes a machine-readable runbooks.txt directory map for automated event orchestration routing, alongside architectural design notes on engineering documentation for dual consumption: human on-call engineers and autonomous DevOps AI copilots. Navigating the incident tracks using the integrated, interactive Incident Dashboard Simulator grounds the documentation in true production engineering workflows. 
+
+**Live site:** [asmita1qq.github.io/infra-sre-runbooks](https://asmita1qq.github.io/infra-sre-runbooks/)
+
 ### 🐶 [puppy-robot-docs](https://github.com/asmita1qq/puppy-robot-docs) — Tooling Range
 A smaller project demonstrating MkDocs, a second static-site documentation generator, alongside the Docusaurus work above.
 
@@ -39,8 +44,8 @@ A smaller project demonstrating MkDocs, a second static-site documentation gener
 
 ---
 
-## Why these four
+## Why these five
 
-Real technical writing work isn't just "write clearly" — it's documenting systems for developers, documenting data for analysts, building the processes that keep a documentation team consistent, and adapting the same underlying knowledge for a completely different audience. These four projects are built to show that range with real, working artifacts rather than a single writing sample.
+Real technical writing work isn't just "write clearly" — it's documenting systems for developers, documenting data for analysts, building the processes that keep a documentation team consistent, adapting the same underlying knowledge for a completely different audience, and engineering high-availability runbooks that protect production infrastructure during critical incidents. These five projects are built to show that range with real, working artifacts rather than a single writing sample.
 
-*Note: DataHub and RetailFlow are fictional products created for this portfolio, modeled on real enterprise SaaS and retail-technology domains. They are not affiliated with any real company or product of the same name.*
+Note: DataHub, RetailFlow, and the InfraOps Command Suite are fictional products created for this portfolio, modeled on real enterprise SaaS, retail-technology, and cloud infrastructure domains. They are not affiliated with any real company or product of the same name.
